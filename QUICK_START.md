@@ -8,7 +8,7 @@
 
 ```bash
 # 1️⃣ 克隆项目
-git clone https://github.com/your-username/RecordThings.git
+git clone https://github.com/Ckxkx/Recordthings.git
 
 # 2️⃣ 用HBuilderX打开项目文件夹
 
@@ -20,8 +20,8 @@ git clone https://github.com/your-username/RecordThings.git
 
 ```bash
 # 克隆并运行
-git clone https://github.com/your-username/RecordThings.git
-cd RecordThings
+git clone https://github.com/Ckxkx/Recordthings.git
+cd Recordthings
 npm run dev:mp-weixin
 ```
 
@@ -44,8 +44,8 @@ npm run dev:mp-weixin
 ## 🆘 遇到问题？
 
 - 📖 [详细文档](README.md)
-- 🐛 [报告问题](https://github.com/your-username/RecordThings/issues)
-- 💬 [讨论交流](https://github.com/your-username/RecordThings/discussions)
+- 🐛 [报告问题](https://github.com/Ckxkx/Recordthings/issues)
+- 💬 [讨论交流](https://github.com/Ckxkx/Recordthings/discussions)
 
 ---
 

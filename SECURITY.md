@@ -74,7 +74,7 @@
 如果你对安全策略有任何疑问，请联系：
 
 - 📧 **邮箱**：huichen_zhu@qq.com
-- 🐛 **GitHub Issues**：[安全相关问题](https://github.com/your-username/RecordThings/issues)
+- 🐛 **GitHub Issues**：[安全相关问题](https://github.com/Ckxkx/Recordthings/issues)
 
 ---
 

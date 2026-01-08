@@ -10,7 +10,7 @@
 [![uni-app](https://img.shields.io/badge/uni--app-3.0-brightgreen.svg)](https://uniapp.dcloud.io/)
 [![Vue](https://img.shields.io/badge/Vue-3.0-brightgreen.svg)](https://vuejs.org/)
 
-[📱 在线体验](https://your-demo-url.com) <!-- 📸 需要添加在线演示链接 --> | [🚀 快速开始](#-快速开始) | [✨ 功能演示](#-功能演示)
+[📱 在线体验](https://ckxkx.github.io/Recordthings) <!-- 📸 需要添加在线演示链接 --> | [🚀 快速开始](#-快速开始) | [✨ 功能演示](#-功能演示)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ```bash
 # 1️⃣ 克隆项目（10秒）
-git clone https://github.com/your-username/RecordThings.git
+git clone https://github.com/Ckxkx/Recordthings.git
 
 # 2️⃣ 用HBuilderX打开项目文件夹（10秒）
 
@@ -90,10 +90,10 @@ git clone https://github.com/your-username/RecordThings.git
 
 > **点击下方按钮，在线体验各个功能模块**
 
-[![总览页面](https://img.shields.io/badge/📊-总览页面-blue?style=for-the-badge)](https://your-demo-url.com/overview) <!-- 📸 需要添加在线演示链接 -->
-[![添加物品](https://img.shields.io/badge/➕-添加物品-green?style=for-the-badge)](https://your-demo-url.com/add-item) <!-- 📸 需要添加在线演示链接 -->
-[![数据统计](https://img.shields.io/badge/📈-数据统计-orange?style=for-the-badge)](https://your-demo-url.com/statistics) <!-- 📸 需要添加在线演示链接 -->
-[![搜索功能](https://img.shields.io/badge/🔍-搜索功能-purple?style=for-the-badge)](https://your-demo-url.com/search) <!-- 📸 需要添加在线演示链接 -->
+[![总览页面](https://img.shields.io/badge/📊-总览页面-blue?style=for-the-badge)](https://ckxkx.github.io/Recordthings/overview) <!-- 📸 需要添加在线演示链接 -->
+[![添加物品](https://img.shields.io/badge/➕-添加物品-green?style=for-the-badge)](https://ckxkx.github.io/Recordthings/add-item) <!-- 📸 需要添加在线演示链接 -->
+[![数据统计](https://img.shields.io/badge/📈-数据统计-orange?style=for-the-badge)](https://ckxkx.github.io/Recordthings/statistics) <!-- 📸 需要添加在线演示链接 -->
+[![搜索功能](https://img.shields.io/badge/🔍-搜索功能-purple?style=for-the-badge)](https://ckxkx.github.io/Recordthings/search) <!-- 📸 需要添加在线演示链接 -->
 
 ## 🚀 快速开始
 
@@ -102,7 +102,7 @@ git clone https://github.com/your-username/RecordThings.git
 1. **下载 HBuilderX**：[官网下载](https://www.dcloud.io/hbuilderx.html)
 2. **克隆项目**：
    ```bash
-   git clone https://github.com/your-username/RecordThings.git
+   git clone https://github.com/Ckxkx/Recordthings.git
    ```
 3. **打开项目**：用 HBuilderX 打开项目文件夹
 4. **运行项目**：点击工具栏 `运行` → `运行到小程序模拟器` → `微信开发者工具`
@@ -111,8 +111,8 @@ git clone https://github.com/your-username/RecordThings.git
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/RecordThings.git
-cd RecordThings
+git clone https://github.com/Ckxkx/Recordthings.git
+cd Recordthings
 
 # 安装依赖（可选）
 npm install
@@ -251,10 +251,10 @@ RecordThings/
 
 我们欢迎所有形式的贡献！无论你是：
 
-- 🐛 **发现了Bug** → [提交Issue](https://github.com/your-username/RecordThings/issues)
-- 💡 **有新想法** → [功能建议](https://github.com/your-username/RecordThings/discussions)
-- 👨‍💻 **想写代码** → [提交PR](https://github.com/your-username/RecordThings/pulls)
-- 📖 **完善文档** → [编辑Wiki](https://github.com/your-username/RecordThings/wiki)
+- 🐛 **发现了Bug** → [提交Issue](https://github.com/Ckxkx/Recordthings/issues)
+- 💡 **有新想法** → [功能建议](https://github.com/Ckxkx/Recordthings/discussions)
+- 👨‍💻 **想写代码** → [提交PR](https://github.com/Ckxkx/Recordthings/pulls)
+- 📖 **完善文档** → [编辑Wiki](https://github.com/Ckxkx/Recordthings/wiki)
 
 ### 🔧 开发指南
 
@@ -280,8 +280,8 @@ RecordThings/
 
 - 📧 **邮箱**：huichen_zhu@qq.com
 - 💬 **微信群**：扫码加入交流群 <!-- 📸 需要添加微信群二维码 -->
-- 🐛 **Bug反馈**：[GitHub Issues](https://github.com/your-username/RecordThings/issues)
-- 💡 **功能建议**：[GitHub Discussions](https://github.com/your-username/RecordThings/discussions)
+- 🐛 **Bug反馈**：[GitHub Issues](https://github.com/Ckxkx/Recordthings/issues)
+- 💡 **功能建议**：[GitHub Discussions](https://github.com/Ckxkx/Recordthings/discussions)
 
 ---
 
@@ -289,7 +289,7 @@ RecordThings/
 
 **⭐ 如果这个项目对你有帮助，请给我们一个Star！⭐**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/RecordThings&type=Date)](https://star-history.com/#your-username/RecordThings&Date) <!-- 📸 需要替换为实际的GitHub仓库地址 -->
+[![Star History Chart](https://api.star-history.com/svg?repos=Ckxkx/Recordthings&type=Date)](https://star-history.com/#Ckxkx/Recordthings&Date)
 
 *让库存管理变得简单而优雅*
 

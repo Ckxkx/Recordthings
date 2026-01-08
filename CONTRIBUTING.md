@@ -14,8 +14,8 @@
 
 ```bash
 # 1. Fork 并克隆项目
-git clone https://github.com/your-username/RecordThings.git
-cd RecordThings
+git clone https://github.com/Ckxkx/Recordthings.git
+cd Recordthings
 
 # 2. 创建开发分支
 git checkout -b feature/your-feature-name
@@ -56,7 +56,7 @@ docs(readme): 更新安装说明
 
 ## 🐛 Bug 报告
 
-发现 Bug？请通过 [GitHub Issues](https://github.com/your-username/RecordThings/issues) 报告：
+发现 Bug？请通过 [GitHub Issues](https://github.com/Ckxkx/Recordthings/issues) 报告：
 
 1. **使用 Bug 模板**
 2. **详细描述问题**
@@ -231,9 +231,9 @@ static/              # 静态资源
 
 ## 📞 联系我们
 
-- 💬 **讨论**：[GitHub Discussions](https://github.com/your-username/RecordThings/discussions)
+- 💬 **讨论**：[GitHub Discussions](https://github.com/Ckxkx/Recordthings/discussions)
 - 📧 **邮箱**：huichen_zhu@qq.com
-- 🐛 **Bug报告**：[GitHub Issues](https://github.com/your-username/RecordThings/issues)
+- 🐛 **Bug报告**：[GitHub Issues](https://github.com/Ckxkx/Recordthings/issues)
 
 ---
 
