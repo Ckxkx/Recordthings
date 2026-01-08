@@ -1,0 +1,26 @@
+{
+  "name": "record-things",
+  "version": "1.0.0",
+  "description": "库存管理小程序 - RecordThings",
+  "main": "main.js",
+  "scripts": {
+    "dev:h5": "uni",
+    "build:h5": "uni build",
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "keywords": [
+    "uni-app",
+    "inventory",
+    "miniprogram"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^5.6.0"
+  },
+  "browserslist": [
+    "Android >= 4.4",
+    "ios >= 9"
+  ]
+}

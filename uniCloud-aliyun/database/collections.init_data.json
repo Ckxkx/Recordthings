@@ -1,0 +1,78 @@
+[
+  {
+    "collection": "items",
+    "description": "物品库存表",
+    "schema": {
+      "bsonType": "object",
+      "required": [
+        "name",
+        "userId"
+      ],
+      "properties": {
+        "_id": {
+          "description": "ID，系统自动生成"
+        },
+        "userId": {
+          "bsonType": "string",
+          "description": "用户ID"
+        },
+        "name": {
+          "bsonType": "string",
+          "description": "物品名称"
+        },
+        "barcode": {
+          "bsonType": "string",
+          "description": "条形码"
+        },
+        "brand": {
+          "bsonType": "string",
+          "description": "品牌"
+        },
+        "supplier": {
+          "bsonType": "string",
+          "description": "供应商"
+        },
+        "stock": {
+          "bsonType": "int",
+          "description": "库存数量"
+        },
+        "image": {
+          "bsonType": "string",
+          "description": "图片URL"
+        },
+        "category": {
+          "bsonType": "string",
+          "description": "分类"
+        },
+        "productionDate": {
+          "bsonType": "string",
+          "description": "生产日期"
+        },
+        "expirationDate": {
+          "bsonType": "string",
+          "description": "过期日期"
+        },
+        "expiringDate": {
+          "bsonType": "string",
+          "description": "临期日期"
+        },
+        "removeDate": {
+          "bsonType": "string",
+          "description": "下架日期"
+        },
+        "reminder": {
+          "bsonType": "string",
+          "description": "提醒设置"
+        },
+        "createTime": {
+          "bsonType": "timestamp",
+          "description": "创建时间"
+        },
+        "updateTime": {
+          "bsonType": "timestamp",
+          "description": "更新时间"
+        }
+      }
+    }
+  }
+]

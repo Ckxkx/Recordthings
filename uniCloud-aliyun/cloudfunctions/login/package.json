@@ -1,0 +1,7 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "微信手机号登录云函数",
+  "main": "index.js",
+  "dependencies": {}
+}

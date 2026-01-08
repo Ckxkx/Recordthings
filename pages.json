@@ -1,0 +1,116 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/overview/overview",
+			"style": {
+				"navigationBarTitleText": "总览",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/inventory/inventory",
+			"style": {
+				"navigationBarTitleText": "库存",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/more/more",
+			"style": {
+				"navigationBarTitleText": "更多",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/item-list/item-list",
+			"style": {
+				"navigationBarTitleText": "列表",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/add-item/add-item",
+			"style": {
+				"navigationBarTitleText": "新增物品",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black",
+				"mp-weixin": {
+					"navigationBarTitleText": "新增物品",
+					"navigationStyle": "custom"
+				}
+			}
+		},
+		{
+			"path": "pages/item-import/item-import",
+			"style": {
+				"navigationBarTitleText": "物品导入",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/statistics/statistics",
+			"style": {
+				"navigationBarTitleText": "数据统计",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "RecordThings",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#7ABAFF",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/overview/overview",
+				"text": "总览",
+				"iconPath": "static/overview.png",
+				"selectedIconPath": "static/overview-active.png"
+			},
+			{
+				"pagePath": "pages/inventory/inventory",
+				"text": "库存",
+				"iconPath": "static/inventory.png",
+				"selectedIconPath": "static/inventory-active.png"
+			},
+			{
+				"pagePath": "pages/more/more",
+				"text": "更多",
+				"iconPath": "static/more.png",
+				"selectedIconPath": "static/more-active.png"
+			}
+		]
+	},
+	"uniIdRouter": {},
+	"lazyCodeLoading": "requiredComponents"
+}

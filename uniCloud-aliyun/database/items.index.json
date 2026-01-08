@@ -1,0 +1,28 @@
+{
+  "collection": "items",
+  "indexes": [
+    {
+      "name": "userId_1",
+      "unique": false,
+      "keys": {
+        "userId": 1
+      }
+    },
+    {
+      "name": "userId_expirationDate_1",
+      "unique": false,
+      "keys": {
+        "userId": 1,
+        "expirationDate": 1
+      }
+    },
+    {
+      "name": "userId_createTime_-1",
+      "unique": false,
+      "keys": {
+        "userId": 1,
+        "createTime": -1
+      }
+    }
+  ]
+}
