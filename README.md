@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![项目Logo](docs/images/logo.png) <!-- 📸 需要添加项目Logo -->
+![项目Logo](static/物品管理.png) <!-- 📸 需要添加项目Logo -->
 
 **再也不用担心东西过期了！**
 
