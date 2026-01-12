@@ -58,7 +58,7 @@ git clone https://github.com/Ckxkx/Recordthings.git
 
 **⏰ 智能到期提醒**
 
-![到期提醒](docs/images/expiry-alert.gif) <!-- 📸 需要添加到期提醒GIF -->
+![到期提醒](static/9.jpg) <!-- 📸 需要添加到期提醒GIF -->
 
 7天提前预警 | 三色状态标识
 
