@@ -131,13 +131,15 @@ npm run dev:mp-weixin
 
 ## 🎨 界面预览
 
-<div align="center" width="50%">
+<div align="center">
 
 ### 📱 主要页面展示
+<td width="50%" align="center">
 
 ![界面预览](static/1.jpg) <!-- 📸 需要添加界面预览图 -->
 
 *现代化渐变设计 | 毛玻璃效果 | 流畅动画交互*
+</td>
 
 </div>
 
