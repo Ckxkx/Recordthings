@@ -131,7 +131,7 @@ npm run dev:mp-weixin
 
 ## 🎨 界面预览
 
-<div align="center">
+<div align="center" width="50%">
 
 ### 📱 主要页面展示
 
